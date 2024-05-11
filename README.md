@@ -1,11 +1,11 @@
 <img src="https://github.com/Deri-Kurniawan/Deri-Kurniawan/blob/main/assets/images/horizontal-divider-gradient.gif">
-
+  <!-- 
 <picture> 
 <a href="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjhxano1ZTluMGE3MnN2dHIwNzY5dHg0d2drcTByb25ja2Fxd3FteiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" width="395">
-    
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjhxano1ZTluMGE3MnN2dHIwNzY5dHg0d2drcTByb25ja2Fxd3FteiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" width="395">    
 </a>
 </picture>
+Link to developer GIF -->
 
 ```js
 "use creativity";

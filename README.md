@@ -13,15 +13,3 @@
     <img src="https://skillicons.dev/icons?i=js,html,css,androidstudio,figma,git,github,ai,mysql,nodejs,postman,py,react,visualstudio,vscode" />
   </a>
 </div>
-
-<br>
-<!-- border-radius is not working -->
-<div align="center">
-  <img src="./martin-marek-vcTxCvh710A-unsplash.jpg" alt="Wallpaper" width="835">
-</div>
-
-<br>
-
-<p align="center">
-<a href="https://github.com/AbhishekTemgire"><img src="https://streak-stats.demolab.com?user=AbhishekTemgire&theme=highcontrast&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D&card_width=835" alt="GitHub Streak" /></a>
-</p>

@@ -17,7 +17,7 @@
 <br>
 <!-- border-radius is not working -->
 <div align="center">
-  <img src="assets/wallpaper.png" alt="Wallpaper" width="835">
+  <img src="./martin-marek-vcTxCvh710A-unsplash.jpg" alt="Wallpaper" width="835">
 </div>
 
 <br>

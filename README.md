@@ -8,13 +8,6 @@ I'm a passionate programmer dedicated to crafting innovative solutions and pushi
 - 🚀 Constantly exploring new horizons in software development, from web applications to mobile apps and beyond.
 - 🌟 Committed to delivering high-quality code and exceeding project goals through proactive teamwork and effective communication.
 
-## My Tech Stack
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,html,css,androidstudio,figma,git,github,express,mysql,nodejs,postman,python,react,visualstudio,vscode,firebase,nextjs,mongodb" />
-  </a>
-</p>
 
 ## What I Bring to the Table
 

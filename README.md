@@ -9,11 +9,11 @@ Link to developer GIF -->
 
 ```js
 "use creativity";
-import { Person } from 'indonesia';
+import { Person } from 'india';
 
 new Person({
     name   : 'Abhishek Temgire',
-    title  : 'Software Developer',
+    title  : 'Software Engineer',
     email  : 'abhishektemigre.dev@gmail.com',
     website: 'https://abhishekwebsite.web.app',
 }).introduce();

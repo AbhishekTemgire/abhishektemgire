@@ -21,7 +21,7 @@ new Person({
 
 ```cmd
 D:\Abhishek-Temgire> node index.js
-Hi, my name is Abhishek Temgire, I'm a Software Developer from India.
+Hi, my name is Abhishek Temgire, I'm a Software Engineer from India.
 ```
 
 

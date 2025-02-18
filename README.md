@@ -1,26 +1,18 @@
 <div align="center">
-  <h2>Hi there! I'm Abhishek Temgire 👋</h2>
-  <h3>Software Engineer | AI & Robotics Enthusiast</h3>
-  <p>Passionate about learning and building with emerging technologies</p>
+  <h1>Abhishek Temgire</h1>
+  <p>Software Engineer exploring AI & Autonomous Systems</p>
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishektemgire7020)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abhishektemigre.dev@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=about.me&logoColor=white)](https://abhishekwebsite.web.app)
 </div>
 
-### About Me
-I'm a Software Engineer with a strong enthusiasm for AI, robotics, and autonomous systems. I believe in continuous learning and am always excited to explore new technologies. Currently focused on developing my skills in AI/ML while building practical full-stack applications.
+### About
 
-```yaml
-Learning Journey:
-  current_focus:
-    - AI & Machine Learning
-    - Autonomous Systems
-    - Full Stack Development
-  exploring:
-    - LiDAR Technology
-    - Drone Systems
-    - Advanced AI Applications
-  passion: "Continuous learning and technology exploration"
-```
+Software Engineer with a passion for emerging technologies. Currently focused on AI, autonomous systems, and full-stack development. Committed to continuous learning and building innovative solutions.
 
-### Technology Stack
+### Tech Stack
+
 <div align="center">
 
 
@@ -94,65 +86,33 @@ Learning Journey:
     </tr>
   </table>
 </div>
+### Current Focus
 
-### Currently Learning & Exploring
-- 🚗 **Autonomous Systems**
-  - Understanding LiDAR technology fundamentals
-  - Learning about sensor fusion concepts
-  - Exploring drone navigation principles
-
-- 🤖 **AI & Machine Learning**
-  - Experimenting with Large Language Models
-  - Developing Computer Vision skills
-  - Learning real-time processing techniques
-
-- 🌐 **Full Stack Development**
-  - Building scalable applications
-  - Working with cloud technologies
-  - Implementing modern web solutions
-
-### GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishektemgire&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF&hide=stars" width="49%" alt="GitHub Stats"/>
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishektemgire&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF" width="49%" alt="Streak"/> -->
-</div>
-
-### Activity Overview
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishektemgire&theme=github-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" width="98%" alt="Activity"/>
-</div>
-
-### Learning Areas
-```python
-learning_journey = {
-    "Exploring": ["LiDAR Processing", "Autonomous Systems", "Drone Technology"],
-    "Developing": ["AI & ML Skills", "Full Stack Development", "Cloud Solutions"],
-    "Interests": ["Emerging Tech", "Robotics", "Software Engineering"],
-    "Tools": ["Python", "JavaScript", "AWS", "Docker"]
-}
+```yaml
+Learning:
+  - LiDAR Technology & Processing
+  - Autonomous Systems
+  - Large Language Models
+  - Cloud Architecture
 ```
 
-### Let's Connect!
+### Analytics
 
 <div align="center">
-  <a href="https://linkedin.com/in/abhishektemgire7020">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:abhishektemigre.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://abhishekwebsite.web.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishektemgire&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF&hide=stars,issues" width="48%" alt="Stats"/>
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishektemgire&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF" width="48%" alt="Streak"/> -->
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhishektemgire&color=58A6FF&style=flat-square&label=Profile+Views"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishektemgire&theme=github-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" width="95%" alt="Activity"/>
 </div>
 
 ---
 
 <div align="center">
-  <i>Always learning, always growing. Building the future one line of code at a time.</i>
+  <sub>Exploring the intersection of software, AI, and autonomous systems</sub>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=abhishektemgire&color=58A6FF&style=flat-square&label=Views"/>
 </div>
+
+

@@ -86,6 +86,7 @@ Software Engineer with a passion for emerging technologies. Currently focused on
     </tr>
   </table>
 </div>
+
 ### Current Focus
 
 ```yaml

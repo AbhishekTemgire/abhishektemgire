@@ -115,7 +115,7 @@ Learning Journey:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abhishektemgire&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF&hide=stars" width="49%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishektemgire&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF" width="49%" alt="Streak"/>
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishektemgire&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF" width="49%" alt="Streak"/> -->
 </div>
 
 ### Activity Overview
